@@ -1,0 +1,29 @@
+.fi, .fries, .btn {
+    display:block;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.fi{
+    font-weight: 900;
+    width: 100px;
+    border-radius: 20px;
+    color: green;
+    border: 2px solid forestgreen;
+    background-color: azure;
+}
+.fries{
+    background-color: aquamarine;
+    border: none;
+    width: 40px ;
+    color: azure;
+    border-radius: 50%;
+}
+.en{
+    color:white;
+    background-color: blue;
+    width: 180px;
+    height: 50px;
+    box-shadow:  5px 5px 8px #000000
+}
+
